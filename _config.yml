@@ -1,7 +1,7 @@
 title: "Shyamal Suhana Chandra"
 description: "Chief Engineer (Manager) · Apple-like animated resume"
-url: "" # Set this to your GitHub Pages URL, e.g. https://username.github.io
-baseurl: "" # Set if using a project page, e.g. /my-resume
+url: "https://shyamalschandra.github.io"
+baseurl: ""
 
 markdown: kramdown
 theme: null
